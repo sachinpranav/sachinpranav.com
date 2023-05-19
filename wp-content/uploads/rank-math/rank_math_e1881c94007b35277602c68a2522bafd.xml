@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//sachinpranav.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://sachinpranav.com/post-sitemap.xml</loc>
+		<lastmod>2022-11-08T06:01:17+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://sachinpranav.com/page-sitemap.xml</loc>
+		<lastmod>2023-01-17T02:20:05+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://sachinpranav.com/category-sitemap.xml</loc>
+		<lastmod>2022-11-08T06:01:17+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

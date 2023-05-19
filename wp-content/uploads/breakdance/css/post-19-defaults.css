@@ -1,0 +1,40 @@
+.breakdance .bde-section {position: relative;width: 100%;background-position: center center;background-size: cover;}
+.breakdance .bde-section .section-container:empty {min-height: 80px;}
+.breakdance .bde-section .section-container {max-width: var(--bde-section-width);background-size: cover;position: relative;display: flex;flex-direction: column;align-items: flex-start;text-align: left;margin: 0 auto;padding: var(--bde-section-vertical-padding) var(--bde-section-horizontal-padding);}
+.breakdance .bde-section .section-shape-divider-wrapper {position: absolute;overflow: hidden;top: 0;left: 0;bottom: 0;right: 0;pointer-events: none;}
+.breakdance .bde-section .section-shape-divider-wrapper .section-shape-divider svg {position: absolute;color: #000;width: 100%;height: 320px;left: 0;right: 0;top: 0;transform: scaleY(-1);}
+.breakdance .bde-columns {max-width: 100%;width: 100%;display: flex;flex-direction: row;flex-wrap: nowrap;gap: var(--bde-column-gap);}
+.breakdance .bde-column {display: flex;flex-direction: column;justify-content: flex-start;text-align: left;align-items: flex-start;width: calc(var(--column-width) - var(--bde-column-gap) * ( ( var(--columnCount) - 1 ) / var(--columnCount) ));position: relative;background-size: cover;}
+.breakdance .bde-heading {max-width: 100%;margin: 0;}
+.breakdance .bde-text {max-width: 100%;margin: 0;}
+.breakdance .bde-button {max-width: 100%;}
+.breakdance .bde-advancedslider {position: relative;max-width: 100%;}
+.breakdance .bde-advancedslide.swiper-slide {height: auto;}
+.breakdance .bde-advancedslide .advanced-slider__slide {height: 100%;display: flex;flex-direction: column;align-items: center;justify-content: center;padding: 30px 30px 50px;}
+.breakdance .bde-div {display: flex;flex-direction: column;align-items: flex-start;text-align: left;max-width: 100%;position: relative;background-size: cover;}
+.breakdance .bde-image {max-width: 100%;}
+.breakdance-image {position: relative;display: flex;flex-direction: column;max-width: 100%;margin: 0;border: none;}
+.breakdance-image-clip {overflow: hidden;}
+.breakdance-image-object {display: block;max-width: 100%;height: auto;}
+.breakdance-image__caption {text-align: center;margin: 0;padding: 16px;}
+.breakdance-image--caption-overlap .breakdance-image__caption {position: absolute;left: 0;right: 0;bottom: 0;}
+.breakdance-image-link {display: block;}
+.breakdance-image__mask {-webkit-mask-position: center;mask-position: center;-webkit-mask-repeat: no-repeat;mask-repeat: no-repeat;-webkit-mask-size: auto;mask-size: auto;}
+.breakdance-image__mask img {border-style: none;height: auto;max-width: 100%;}
+.breakdance .bde-video lite-youtube {max-width: 100%;}
+.breakdance .bde-video {width: 100%;max-width: 100%;position: relative;line-height: 0;background: #000;overflow: hidden;}
+.breakdance .bde-video .ee-video {position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;object-fit: cover;}
+.breakdance .bde-video .ee-video-container {position: relative;width: 100%;padding-top: 56.25%;}
+.breakdance .bde-video .ee-video-poster, .breakdance .bde-video .ee-play-button {cursor: pointer;}
+.breakdance .bde-stats-grid {--num-columns: 3;--space-between-items: 20px;display: grid;grid-template-columns: repeat(var(--num-columns),1fr);gap: var(--space-between-items);max-width: 100%;}
+.breakdance .bde-stats-grid_item {display: flex;flex-direction: column;align-items: center;text-align: center;justify-content: flex-start;padding: 24px;}
+.breakdance .bde-stats-grid_icon {margin-bottom: 12px;}
+.breakdance .bde-stats-grid_number {font-size: 2em;margin-top: 0;margin-bottom: 6px;}
+.breakdance .bde-stats-grid_text {font-size: .875em;margin: 0;}
+.breakdance .bde-image-box {max-width: 100%;display: flex;flex-direction: column;align-items: center;text-align: center;padding: 20px;gap: 20px;overflow: hidden;}
+.breakdance .bde-image-box-content-padding-only {padding: 0px;}
+.breakdance .bde-image-box .ee-imagebox-image {max-width: 100%;width: 100%;display: flex;}
+.breakdance .bde-image-box .ee-imagebox-image img {max-width: 100%;width: 100%;height: auto;}
+.breakdance .bde-image-box .ee-imagebox-title {margin: 0;margin-bottom: 12px;}
+.breakdance .bde-image-box .ee-imagebox-button {margin-top: 20px;}
+.breakdance .bde-image-box .ee-imagebox-content {width: 100%;display: flex;flex-direction: column;align-items: center;height: 100%;}

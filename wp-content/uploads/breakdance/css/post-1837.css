@@ -1,1 +1,10 @@
-.breakdance .bde-section-1837-100 .section-container{flex-wrap:wrap;flex-direction:row;align-items:center;justify-content:space-between}.breakdance .bde-section-1837-100 .section-container{padding-bottom:0px;padding-top:0px}.breakdance .bde-section-1837-100{border-top:1px solid #000}@media (max-width:479px){.breakdance .bde-div-1837-101{align-items:center;text-align:center}}.breakdance .bde-text-1837-102{font-size:16px;margin-top:10px;margin-bottom:10px}@media (max-width:479px){.breakdance .bde-text-1837-102{font-size:16px}}.breakdance .bde-social-icons-1837-103{margin-top:10px;margin-bottom:10px;flex-direction:row}.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper{border-radius:100%;background-color:#642EDA00;padding:10px;opacity:1}.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper:hover{background-color:#FFE929;transform:scale(1.1);opacity:0.8}.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper svg{width:24px;height:24px}
+.breakdance .bde-section-1837-100 .section-container {flex-wrap: wrap;flex-direction: row;align-items: center;justify-content: space-between;}
+.breakdance .bde-section-1837-100 .section-container {padding-bottom: 0px;padding-top: 0px;}
+.breakdance .bde-section-1837-100 {border-top: 1px solid #000;}
+@media (max-width:479px) {.breakdance .bde-div-1837-101 {align-items: center;text-align: center;}}
+.breakdance .bde-text-1837-102 {font-size: 16px;margin-top: 10px;margin-bottom: 10px;}
+@media (max-width:479px) {.breakdance .bde-text-1837-102 {font-size: 16px;}}
+.breakdance .bde-social-icons-1837-103 {margin-top: 10px;margin-bottom: 10px;flex-direction: row;}
+.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper {border-radius: 100%;background-color: rgba(100,46,218,0);padding: 10px;opacity: 1;}
+.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper:hover {background-color: #ffe929;transform: scale(1.1);opacity: .8;}
+.breakdance .bde-social-icons-1837-103 .bde-social-icons__icon-wrapper svg {width: 24px;height: 24px;}

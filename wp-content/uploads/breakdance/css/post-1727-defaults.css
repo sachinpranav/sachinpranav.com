@@ -1,0 +1,22 @@
+.breakdance .bde-section {position: relative;width: 100%;background-position: center center;background-size: cover;}
+.breakdance .bde-section .section-container:empty {min-height: 80px;}
+.breakdance .bde-section .section-container {max-width: var(--bde-section-width);background-size: cover;position: relative;display: flex;flex-direction: column;align-items: flex-start;text-align: left;margin: 0 auto;padding: var(--bde-section-vertical-padding) var(--bde-section-horizontal-padding);}
+.breakdance .bde-section .section-shape-divider-wrapper {position: absolute;overflow: hidden;top: 0;left: 0;bottom: 0;right: 0;pointer-events: none;}
+.breakdance .bde-section .section-shape-divider-wrapper .section-shape-divider svg {position: absolute;color: #000;width: 100%;height: 320px;left: 0;right: 0;top: 0;transform: scaleY(-1);}
+.breakdance .bde-div {display: flex;flex-direction: column;align-items: flex-start;text-align: left;max-width: 100%;position: relative;background-size: cover;}
+.breakdance .bde-image {max-width: 100%;}
+.breakdance-image {position: relative;display: flex;flex-direction: column;max-width: 100%;margin: 0;border: none;}
+.breakdance-image-clip {overflow: hidden;}
+.breakdance-image-object {display: block;max-width: 100%;height: auto;}
+.breakdance-image__caption {text-align: center;margin: 0;padding: 16px;}
+.breakdance-image--caption-overlap .breakdance-image__caption {position: absolute;left: 0;right: 0;bottom: 0;}
+.breakdance-image-link {display: block;}
+.breakdance-image__mask {-webkit-mask-position: center;mask-position: center;-webkit-mask-repeat: no-repeat;mask-repeat: no-repeat;-webkit-mask-size: auto;mask-size: auto;}
+.breakdance-image__mask img {border-style: none;height: auto;max-width: 100%;}
+.breakdance .bde-text-link {display: flex;}
+.breakdance .bde-text-link>* {margin: 0;color: currentColor;}
+.breakdance .bde-button {max-width: 100%;}
+.breakdance .bde-container-link {display: flex;flex-direction: column;align-items: flex-start;text-align: left;max-width: 100%;text-decoration: none;transition-property: background-color,border-color,box-shadow,color;transition-timing-function: ease-in-out;transition-duration: var(--defaultTransition,300ms);position: relative;background-size: cover;}
+.breakdance .bde-container-link h1, .bde-container-link h2, .bde-container-link h3, .bde-container-link h4, .bde-container-link h5, .bde-container-link h6 {transition-property: color;transition-timing-function: ease-in-out;transition-duration: var(--defaultTransition,300ms);}
+.breakdance .bde-text {max-width: 100%;margin: 0;}
+.breakdance .bde-icon {display: flex;}

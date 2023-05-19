@@ -1,0 +1,12 @@
+.breakdance .bde-popup-350-100 {background-color: rgba(0,0,0,.27);}
+.breakdance .bde-popup-350-100 .breakdance-popup {width: 40%;}
+.breakdance .bde-popup-350-100 .breakdance-popup .breakdance-popup-close-button {color: #fff;--closebuttonsize: 20px;--closebuttonoutsidepadding: 6px;padding-left: 6px;padding-right: 6px;padding-bottom: 6px;padding-top: 6px;background-color: rgba(0,0,0,.74);}
+@media (max-width:1119px) {.breakdance .bde-popup-350-100 .breakdance-popup .breakdance-popup-close-button {color: #fff;background-color: rgba(0,0,0,.74);}}
+@media (max-width:1023px) {.breakdance .bde-popup-350-100 .breakdance-popup .breakdance-popup-close-button {color: #fff;background-color: rgba(0,0,0,.74);}}
+@media (max-width:767px) {.breakdance .bde-popup-350-100 .breakdance-popup .breakdance-popup-close-button {color: #fff;background-color: rgba(0,0,0,.74);}}
+@media (max-width:479px) {.breakdance .bde-popup-350-100 .breakdance-popup {width: 100%;}
+	.breakdance .bde-popup-350-100 .breakdance-popup .breakdance-popup-close-button {color: #fff;background-color: rgba(0,0,0,.74);}}
+.breakdance .bde-heading-350-102 {margin-bottom: 17px;}
+.breakdance .bde-form-builder-350-101 {--bde-form-input-border-bottom: 2px solid var(--bde-palette-gold-1);}
+.breakdance .bde-form-builder-350-101 .breakdance-form .breakdance-form-field__input, .breakdance .bde-form-builder-350-101 .select2-container--default .select2-search--dropdown .select2-search__field, .breakdance .bde-form-builder-350-101 .select2-container--default .select2-selection--single, .breakdance .bde-form-builder-350-101 .breakdance-woocommerce .price_slider_amount input[type="text"], .breakdance .bde-form-builder-350-101 .breakdance-woocommerce input[type="search"], .breakdance .bde-form-builder-350-101 .breakdance-woocommerce textarea, .breakdance .bde-form-builder-350-101 .breakdance-woocommerce .woocommerce-Input, .breakdance .bde-form-builder-350-101 .breakdance-woocommerce .input-text, .breakdance .bde-form-builder-350-101 .breakdance-woocommerce select, .breakdance .bde-form-builder-350-101 .breakdance-woocommerce .wc_payment_method input[type="text"], .breakdance .bde-form-builder-350-101 .breakdance-woocommerce .wc-stripe-elements-field {border-bottom: 2px solid var(--bde-palette-gold-1);}
+.breakdance .bde-form-builder-350-101 .breakdance-form-button__submit {border-radius: 7px;}
