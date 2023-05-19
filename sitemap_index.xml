@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://sachinpranav.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://sachinpranav.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://sachinpranav.com/post-sitemap.xml</loc>
+		<loc>https://sachinpranav.com/post-sitemap.xml</loc>
 		<lastmod>2022-11-08T06:01:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://sachinpranav.com/page-sitemap.xml</loc>
+		<loc>https://sachinpranav.com/page-sitemap.xml</loc>
 		<lastmod>2023-01-17T05:07:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://sachinpranav.com/category-sitemap.xml</loc>
+		<loc>https://sachinpranav.com/category-sitemap.xml</loc>
 		<lastmod>2022-11-08T06:01:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://sachinpranav.com/author-sitemap.xml</loc>
+		<loc>https://sachinpranav.com/author-sitemap.xml</loc>
 		<lastmod>2022-12-24T17:01:45+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
